@@ -1,0 +1,10 @@
+//Implementar uma solução em Python que verifique se um número é par ou ímpar.
+
+numero = 41
+
+if(numero%2==0):
+    situacao="o número é par"
+else:
+    situacao="o número é ímpar"
+    
+print(situacao)
